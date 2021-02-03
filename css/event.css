@@ -1,0 +1,30 @@
+
+@charset "utf-8";
+
+.box{
+     border: 2px solid #c0c0c0;
+/*     border-radius: 30px;*/
+     }
+
+
+.event img{
+           width: 200px;
+           float: left;
+           }
+
+h2{
+   float: right;
+   }
+
+p{
+  clear: both;
+  }
+
+
+#sns{
+     clear: boht;
+     }
+
+#footer{
+        clear: both;
+        }

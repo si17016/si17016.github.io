@@ -1,0 +1,93 @@
+
+@charset "utf-8";
+
+body{
+     background-color: ;
+     }
+
+.inner{
+       margin: 0 auto;
+       }
+
+header{
+       height: 70px;
+       background-color: #ffbf7f;
+       position: relative;
+       }
+
+header h1{
+          text-align: center;
+          color: #ffffff;
+          }
+
+h2{
+   background-color: #7fbfff;
+   }
+
+/*メニューブロック*/
+nav{
+    width: max;
+    height: 50px;
+    text-align: center;
+    }
+
+ul{
+   list-style: none;
+   }
+
+/*メニュー1個分*/
+nav li{
+       background-color: #ffff7f;
+       width: 25%;
+       height: 50px;
+/*       border: 1px solid #ff840a;*/
+       text-align: center;
+       float: left;
+       }
+
+nav li a{
+         text-decoration: none;
+         color: #ff840a;
+         font-weight: bold;
+         height: 50px;
+         }
+
+#LFV{
+     clear: left;
+     }
+
+.main{
+      padding-left: 10%;
+      padding-right: 10%;
+      }
+
+.main h1{
+         font-size: 25px;
+         background-color: #99ff99;
+         height: 40px;
+         }
+
+.lfv img{
+         width: 100%;
+         width-max: 100%;
+         height: auto;
+         }
+
+#sns{
+     background-color: #ff9999;
+     height: 90px;
+     }
+
+#footermenu{
+            background-color: #ff99cc;
+            height: 180px;
+            }
+
+#footermenu li a{
+                 /*text-decoration: none;*/
+                 color: #ffffff;
+                 }
+
+/*マップの形*/
+#map{
+     }
